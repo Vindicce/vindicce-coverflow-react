@@ -5,8 +5,6 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports["default"] = void 0;
 
-require("./coverFlow.css");
-
 var _react = _interopRequireDefault(require("react"));
 
 var _reactSwipeable = require("react-swipeable");
